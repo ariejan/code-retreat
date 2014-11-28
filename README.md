@@ -1,6 +1,7 @@
 # Code Retreat!
 
-This repository is a flying start for your Ruby Code Retreat.
+This repository is a flying start for your Ruby Code Retreat. It's based on the
+principes and ideas you can find at [coderetreat.org](http://coderetreat.org/).
 
 ## Getting started
 
